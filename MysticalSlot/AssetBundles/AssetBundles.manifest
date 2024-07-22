@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 578059026
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mystical-asset-bundle
+      Dependencies: {}
+    Info_1:
+      Name: mystical-scene-bundle
+      Dependencies:
+        Dependency_0: mystical-asset-bundle

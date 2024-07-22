@@ -1,0 +1,233 @@
+ManifestFileVersion: 0
+CRC: 3928501150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d22a8459b9ccbd7985f9a5fd2c23387e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 598d4a908fa7d69ab62a597d3f94f013
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d22a8459b9ccbd7985f9a5fd2c23387e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials/ReplacementMaterial
+Assets:
+- Assets/AppAssets/Slot/Animation/anticipation/Anticipation_Atlas.asset
+- Assets/AppAssets/Slot/Symbols/L2.png
+- Assets/AppAssets/Slot/Animation/symbols/L1/A_Atlas.asset
+- Assets/AppAssets/Slot/Paytable/Page_4/PAYLINES_Text.png
+- Assets/AppAssets/Slot/Animation/payline/paylines_Atlas.asset
+- Assets/AppAssets/Slot/UI/Arrow_L_Idle.png
+- Assets/AppAssets/Slot/Animation/win/bigwin_Atlas.asset
+- Assets/AppAssets/Slot/Sounds/music_main.wav
+- Assets/AppAssets/Slot/Animation/symbols/L5/10_Material.mat
+- Assets/AppAssets/Slot/Animation/symbols/H2/HP2.atlas.txt
+- Assets/AppAssets/Slot/Welcome/logo.png
+- Assets/AppAssets/Slot/Animation/symbols/L4/J_Material.mat
+- Assets/AppAssets/Slot/UI/Balance_Text.png
+- Assets/AppAssets/Slot/Animation/symbols/L5/10.png
+- Assets/AppAssets/Slot/Animation/symbols/Scatter/Scatter Regular_SkeletonData.asset
+- Assets/AppAssets/Slot/Paytable/Page_2/SYMBOLS_text.png
+- Assets/AppAssets/Slot/UI/Spin_Hover.png
+- Assets/AppAssets/Slot/Animation/anticipation/Anticipation.atlas.txt
+- Assets/AppAssets/Slot/Animation/symbols/H4/HP4.atlas.txt
+- Assets/AppAssets/Slot/Animation/ReelAnim/ReelMovement.anim
+- Assets/AppAssets/Slot/Animation/symbols/L4/J.json
+- Assets/AppAssets/Slot/UI/Spin_Idle.png
+- Assets/AppAssets/Slot/UI/Info_Pressed.png
+- Assets/AppAssets/Slot/Paytable/Panel/exit_Disabled.png
+- Assets/AppAssets/Slot/Symbols/WILD.png
+- Assets/AppAssets/Slot/Paytable/Page_1/3x3_reel.png
+- Assets/AppAssets/Slot/Bg/portrait_background.png
+- Assets/AppAssets/Slot/Animation/symbols/L5/10.atlas.txt
+- Assets/AppAssets/Slot/Animation/symbols/L2/K_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/symbols/Wild/LG_Wild.json
+- Assets/AppAssets/Slot/Animation/symbols/H3/RG_HP3_Material.mat
+- Assets/AppAssets/Slot/Sounds/highPay1.wav
+- Assets/AppAssets/Slot/UI/Arrow_L_Hover.png
+- Assets/AppAssets/Slot/Animation/payline/paylines_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/symbols/H1/HP1_Atlas.asset
+- Assets/AppAssets/Slot/Animation/symbols/H2/HP2_SkeletonData.asset
+- Assets/AppAssets/Slot/Symbols/H3.png
+- Assets/AppAssets/Slot/UI/Stop_Pressed.png
+- Assets/AppAssets/Slot/Animation/symbols/L2/K.json
+- Assets/AppAssets/Slot/UI/Arrow_L_Pressed.png
+- Assets/AppAssets/Slot/Animation/symbols/Bonus/Cash Value-regular.atlas.txt
+- Assets/AppAssets/Slot/Animation/symbols/H4/HP4.png
+- Assets/AppAssets/Slot/Animation/symbols/H4/HP4_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/popup/Popups_Atlas.asset
+- Assets/AppAssets/Slot/Animation/symbols/Wild/LG_Wild_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/symbols/L3/Q_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/symbols/Wild/LG_Wild.atlas.txt
+- Assets/AppAssets/Slot/UI/Win_Text.png
+- Assets/AppAssets/Slot/Animation/symbols/H1/HP1.json
+- Assets/AppAssets/Slot/Animation/ReelAnim/MoveAnimation.controller
+- Assets/AppAssets/Slot/UI/Stop_Disabled.png
+- Assets/AppAssets/Slot/Animation/popup/Popups.json
+- Assets/AppAssets/Slot/Paytable/Panel/back_arrow_Pressed.png
+- Assets/AppAssets/Slot/Paytable/Page_4/desktop_payline.png
+- Assets/AppAssets/Slot/Animation/symbols/H1/HP1.png
+- Assets/AppAssets/Slot/Animation/symbols/H1/HP1_Material.mat
+- Assets/AppAssets/Slot/Animation/symbols/H3/RG_HP3_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/BaseGameBg/BaseGame_BG.atlas.txt
+- Assets/AppAssets/Slot/Animation/symbols/Scatter/Scatter Regular.png
+- Assets/AppAssets/Slot/Animation/win/bigwin_SkeletonData.asset
+- Assets/AppAssets/Slot/UI/Bet_Text.png
+- Assets/AppAssets/Slot/Symbols/L5.png
+- Assets/AppAssets/Slot/Paytable/Panel/page_indicator_empty.png
+- Assets/AppAssets/Slot/UI/Info_Hover.png
+- Assets/AppAssets/Slot/Animation/symbols/L4/J.atlas.txt
+- Assets/AppAssets/Slot/Animation/symbols/H3/RG_HP3.atlas.txt
+- Assets/AppAssets/Slot/UI/Stop_Hover.png
+- Assets/AppAssets/Slot/Animation/symbols/Scatter/Scatter Regular_Material.mat
+- Assets/AppAssets/Slot/Paytable/Panel/back_arrow_Idle.png
+- Assets/AppAssets/Slot/Welcome/Continue_Button_Pressed.png
+- Assets/AppAssets/Slot/Animation/symbols/Bonus/Cash Value-regular_Material.mat
+- Assets/AppAssets/Slot/Symbols/SCATTER.png
+- Assets/AppAssets/Slot/UI/Info_Idle.png
+- Assets/AppAssets/Slot/Animation/win/bigwin_Material.mat
+- Assets/AppAssets/Slot/Paytable/Panel/next_arrow_Idle.png
+- Assets/AppAssets/Slot/Paytable/Page_2/wild_description_text.png
+- Assets/AppAssets/Slot/Paytable/Panel/exit_Hover.png
+- Assets/AppAssets/Slot/Animation/symbols/L3/Q_Atlas.asset
+- Assets/AppAssets/Slot/Animation/symbols/Bonus/Cash Value-regular.png
+- Assets/AppAssets/Slot/Paytable/Panel/back_arrow_Hover.png
+- Assets/AppAssets/Slot/Animation/symbols/L5/10.json
+- Assets/AppAssets/Slot/Symbols/H4.png
+- Assets/AppAssets/Slot/UI/Arrow_R_Hover.png
+- Assets/AppAssets/Slot/Animation/BaseGameBg/BaseGame_BG_Atlas.asset
+- Assets/AppAssets/Slot/Animation/symbols/L3/Q_Material.mat
+- Assets/AppAssets/Slot/Animation/symbols/H2/HP2_Material.mat
+- Assets/AppAssets/Slot/Animation/BaseGameBg/BaseGame_BG_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/symbols/L4/J_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/payline/paylines.atlas.txt
+- Assets/AppAssets/Slot/Sounds/highPay4.wav
+- Assets/AppAssets/Slot/Welcome/Continue_Button_Disabled.png
+- Assets/AppAssets/Slot/Animation/BaseGameBg/BaseGame_BG_Material.mat
+- Assets/AppAssets/Slot/Animation/symbols/Wild/LG_Wild_Atlas.asset
+- Assets/AppAssets/Slot/Animation/payline/paylines.png
+- Assets/AppAssets/Slot/Sounds/highPay2.wav
+- Assets/AppAssets/Slot/Sounds/music_freespin.wav
+- Assets/AppAssets/Slot/Animation/anticipation/Anticipation_Material.mat
+- Assets/AppAssets/Slot/Animation/payline/paylines.json
+- Assets/AppAssets/Slot/UI/Spin_Pressed.png
+- Assets/AppAssets/Slot/Animation/BaseGameBg/BaseGame_BG.png
+- Assets/AppAssets/Slot/Animation/symbols/H4/HP4.json
+- Assets/AppAssets/Slot/Sounds/lowPay.wav
+- Assets/AppAssets/Slot/Animation/popup/Popups_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/symbols/L1/A.png
+- Assets/AppAssets/Slot/Paytable/Page_1/Scatter_symbol.png
+- Assets/AppAssets/Slot/Animation/symbols/L4/J_Atlas.asset
+- Assets/AppAssets/Slot/Symbols/L3.png
+- Assets/AppAssets/Slot/Bg/reelFrame.png
+- Assets/AppAssets/Slot/Welcome/Continue_Button_Idle.png
+- Assets/AppAssets/Slot/Animation/FreeGameBg/FreeSpin_export.png
+- Assets/AppAssets/Slot/Animation/popup/Popups.png
+- Assets/AppAssets/Slot/Animation/symbols/L3/Q.atlas.txt
+- Assets/AppAssets/Slot/Animation/symbols/H2/HP2.png
+- Assets/AppAssets/Slot/Animation/symbols/Bonus/Cash Value-regular.json
+- Assets/AppAssets/Slot/Animation/symbols/Bonus/Cash Value-regular_SkeletonData.asset
+- Assets/AppAssets/Slot/Paytable/Panel/exit_Pressed.png
+- Assets/AppAssets/Slot/Symbols/BONUS.png
+- Assets/AppAssets/Slot/Animation/payline/paylines_Material.mat
+- Assets/AppAssets/Slot/Animation/symbols/H4/HP4_Atlas.asset
+- Assets/AppAssets/Slot/Animation/symbols/H1/HP1.atlas.txt
+- Assets/AppAssets/Slot/Animation/symbols/L5/10_Atlas.asset
+- Assets/AppAssets/Slot/UI/Frame.png
+- Assets/AppAssets/Slot/Bg/logo.png
+- Assets/AppAssets/Slot/Paytable/Panel/Reel.png
+- Assets/AppAssets/Slot/Paytable/Panel/next_arrow_Pressed.png
+- Assets/AppAssets/Slot/Animation/symbols/Scatter/Scatter Regular_Atlas.asset
+- Assets/AppAssets/Slot/Paytable/Page_1/description_text.png
+- Assets/AppAssets/Slot/Animation/symbols/Wild/LG_Wild_Material.mat
+- Assets/AppAssets/Slot/Paytable/Page_1/FREE_SPINS_text.png
+- Assets/AppAssets/Slot/Paytable/Panel/exit_Idle.png
+- Assets/AppAssets/Slot/Animation/FreeGameBg/FreeSpin_export.json
+- Assets/AppAssets/Slot/Animation/symbols/L1/A.atlas.txt
+- Assets/AppAssets/Slot/Animation/symbols/L2/K_Atlas.asset
+- Assets/AppAssets/Slot/Welcome/Continue_Button_Hover.png
+- Assets/AppAssets/Slot/Animation/win/bigwin.png
+- Assets/AppAssets/Slot/Animation/popup/Popups.atlas.txt
+- Assets/AppAssets/Slot/Animation/symbols/L5/10_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/symbols/H3/RG_HP3.png
+- Assets/AppAssets/Slot/Animation/symbols/H3/RG_HP3_Atlas.asset
+- Assets/AppAssets/Slot/Animation/symbols/H4/HP4_Material.mat
+- Assets/AppAssets/Slot/Animation/BaseGameBg/BaseGame_BG.json
+- Assets/AppAssets/Slot/Animation/symbols/L1/A_SkeletonData.asset
+- Assets/AppAssets/Slot/UI/Arrow_R_Disabled.png
+- Assets/AppAssets/Slot/Paytable/Page_3/royals.png
+- Assets/AppAssets/Slot/Animation/FreeGameBg/FreeSpin_export.atlas.txt
+- Assets/AppAssets/Slot/Paytable/Page_2/symbols.png
+- Assets/AppAssets/Slot/Animation/symbols/Wild/LG_Wild.png
+- Assets/AppAssets/Slot/Symbols/H2.png
+- Assets/AppAssets/Slot/Animation/symbols/H2/HP2_Atlas.asset
+- Assets/AppAssets/Slot/Paytable/Page_2/Description_text.png
+- Assets/AppAssets/Slot/Symbols/L4.png
+- Assets/AppAssets/Slot/Animation/symbols/L2/K_Material.mat
+- Assets/AppAssets/Slot/Paytable/Panel/next_arrow_Hover.png
+- Assets/AppAssets/Slot/Animation/FreeGameBg/FreeSpin_export_Atlas.asset
+- Assets/AppAssets/Slot/Animation/symbols/Scatter/Scatter Regular.atlas.txt
+- Assets/AppAssets/Slot/Paytable/Panel/win_up_to__dx_your_bet_text.png
+- Assets/AppAssets/Slot/Animation/FreeGameBg/FreeSpin_export_Material.mat
+- Assets/AppAssets/Slot/UI/Stop_Idle.png
+- Assets/AppAssets/Slot/Animation/symbols/Scatter/Scatter Regular.json
+- Assets/AppAssets/Slot/Sounds/highPay3.wav
+- Assets/AppAssets/Slot/Bg/desktop_background.png
+- Assets/AppAssets/Slot/Animation/FreeGameBg/FreeSpin_export_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/anticipation/Anticipation.json
+- Assets/AppAssets/Slot/Animation/symbols/H2/HP2.json
+- Assets/AppAssets/Slot/UI/Arrow_L_Disabled.png
+- Assets/AppAssets/Slot/Animation/symbols/L1/A_Material.mat
+- Assets/AppAssets/Slot/Paytable/Panel/page_indicator_fill.png
+- Assets/AppAssets/Slot/Animation/symbols/L2/K.png
+- Assets/AppAssets/Slot/Animation/win/bigwin.json
+- Assets/AppAssets/Slot/UI/Arrow_R_Pressed.png
+- Assets/AppAssets/Slot/Paytable/Page_3/descriptopn_text.png
+- Assets/AppAssets/Slot/Symbols/H1.png
+- Assets/AppAssets/Slot/Animation/symbols/Bonus/Cash Value-regular_Atlas.asset
+- Assets/AppAssets/Slot/Animation/symbols/L3/Q.json
+- Assets/AppAssets/Slot/Animation/symbols/L4/J.png
+- Assets/AppAssets/Slot/Symbols/L1.png
+- Assets/AppAssets/Slot/UI/Info_Disabled.png
+- Assets/AppAssets/Slot/UI/Spin_Disabled.png
+- Assets/AppAssets/Slot/Animation/symbols/H4/HP4_Material-Screen.mat
+- Assets/AppAssets/Slot/Animation/symbols/L2/K.atlas.txt
+- Assets/AppAssets/Slot/Animation/symbols/L1/A.json
+- Assets/AppAssets/Slot/Paytable/Page_1/subheader.png
+- Assets/AppAssets/Slot/Animation/anticipation/Anticipation.png
+- Assets/AppAssets/Slot/Animation/symbols/H3/RG_HP3.json
+- Assets/AppAssets/Slot/Animation/symbols/L3/Q.png
+- Assets/AppAssets/Slot/Animation/win/bigwin.atlas.txt
+- Assets/AppAssets/Slot/UI/Arrow_R_Idle.png
+- Assets/AppAssets/Slot/Animation/symbols/H1/HP1_SkeletonData.asset
+- Assets/AppAssets/Slot/Animation/popup/Popups_Material.mat
+- Assets/AppAssets/Slot/Animation/anticipation/Anticipation_SkeletonData.asset
+Dependencies: []
